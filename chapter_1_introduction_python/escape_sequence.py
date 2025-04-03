@@ -1,0 +1,7 @@
+print("It\'s  a good \"point\"")
+print("\n")
+print("The \\ end")
+print("The \\\\ end")
+print("Hellow\tWorld\b bye")
+print("hell\blo")
+print("\tline A \n line B")
